@@ -15,10 +15,10 @@ class GorickNath:
     location   = "Dublin, Ireland 🇮🇪"
     company    = "ZynthoAI"
     roles      = [
-        "AI & Machine Learning Engineer",
-        "Generative AI Engineer",
-        "MLOps Engineer",
-        "Computer Vision Engineer",
+        "AI & Machine Learning",
+        "Generative AI",
+        "MLOps",
+        "Computer Vision",
         "Data Scientist",
         "Data Analyst",
         "Business Analyst",
@@ -26,7 +26,6 @@ class GorickNath:
         "Video Editor",
     ]
     currently  = "Building AI agents & automations"
-    motto      = "I don't just use AI — I build with it"
 ```
 
 ---
@@ -91,5 +90,4 @@ class GorickNath:
 ---
 
 <div align="center">
-<i>"I don't just use AI — I build with it."</i>
 </div>
