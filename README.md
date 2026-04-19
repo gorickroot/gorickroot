@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4493F8&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Gorick+Nath;AI+%26+ML+Engineer;Generative+AI+Engineer;MLOps+%7C+Computer+Vision+Engineer;Founder+of+ZynthoAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4493F8&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Gorick+Nath;Software+%26+AI%2FML+Engineer;Founder+of+ZynthoAI)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=gorickroot&style=flat-square&color=4493F8&label=profile+views" />
 
@@ -19,11 +19,11 @@ class GorickNath:
         "Generative AI",
         "MLOps",
         "Computer Vision",
-        "Data Scientist",
+        "Data Science",
         "Data Analyst",
         "Business Analyst",
-        "Web Developer",
-        "Video Editor",
+        "Web Development",
+        "Video Editing",
     ]
     currently  = "Building AI agents & automations"
 ```
