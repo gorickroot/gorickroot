@@ -67,7 +67,7 @@ class GorickNath:
 | ⚡ **[ZynthoAI](https://github.com/gorickroot/ZynthoAI)** | My AI automation company — intelligent solutions for businesses | `AI` `Automation` |
 | 🗄️ **[PromptVault](https://github.com/gorickroot/PromptVault)** | Curated vault of powerful AI prompts for productivity | `GenAI` `Prompts` |
 | 🎯 **[FocusFlow](https://github.com/gorickroot/FocusFlow-Pomodoro-Time)** | AI-powered productivity and deep focus management tool | `AI` `Productivity` |
-| 💬 **[NeuralChat](https://github.com/gorickroot/NeuralChat)** | Intelligent chatbot powered by cutting-edge AI models | `LLM` `Python` |
+| 💬 **[NeuralChat](https://github.com/gorickroot/Neuralchat)** | Intelligent chatbot powered by cutting-edge AI models | `LLM` `Python` |
 
 ---
 
