@@ -63,7 +63,7 @@ class GorickNath:
 
 | Project | Description | Tags |
 |---------|-------------|------|
-| 📊 **[2026 Resolution Tracker](https://github.com/gorickroot/Resolution-Tracker-2026)** | Web app for tracking and crushing your 2026 goals | `HTML` `CSS` `JS` |
+| 📊 **[2026 Resolution Tracker](https://github.com/gorickroot/Resolution-Tracker-202)** | Web app for tracking and crushing your 2026 goals | `HTML` `CSS` `JS` |
 | ⚡ **[ZynthoAI](https://github.com/gorickroot/ZynthoAI)** | My AI automation company — intelligent solutions for businesses | `AI` `Automation` |
 | 🗄️ **[PromptVault](https://github.com/gorickroot/PromptVault)** | Curated vault of powerful AI prompts for productivity | `GenAI` `Prompts` |
 | 🎯 **[FocusFlow](https://github.com/gorickroot/FocusFlow-Pomodoro-Time)** | AI-powered productivity and deep focus management tool | `AI` `Productivity` |
