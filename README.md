@@ -13,19 +13,21 @@ class GorickNath:
     name        = "Gorick Nath"
     alias       = "gorickroot"
     location    = "Dublin, Ireland 🇮🇪"
-    company     = "Griffith College Dublin"
+    company     = "ZynthoAI"
     roles       = [
         "AI & Machine Learning",
         "Generative AI",
-        "AI Agents & Automation",
-        "Vibe Coding",
-        "Web Development",
-        "Data Science",
-        "Computer Vision",
         "MLOps",
+        "Computer Vision",
+        "Data Science",
+        "Data Analyst",
+        "Business Analyst",
+        "Web Development",
+        "Video Editing",
     ]
     currently   = "Building AI agents & automations | BSc Computing Science"
     motto       = "Every line of code is a step forward"
+```
 
 ---
 
@@ -61,10 +63,10 @@ class GorickNath:
 
 | Project | Description | Tags |
 |---------|-------------|------|
-| 📊 **[2026 Resolution Tracker](https://github.com/gorickroot/Resolution-Tracker-2026)** | Web app for tracking and crushing your 2026 goals | `HTML` `CSS` `JS` |
+| 📊 **[2026 Resolution Tracker](https://github.com/gorickroot/2026-Resolution-Tracker)** | Web app for tracking and crushing your 2026 goals | `HTML` `CSS` `JS` |
 | ⚡ **[ZynthoAI](https://github.com/gorickroot/ZynthoAI)** | My AI automation company — intelligent solutions for businesses | `AI` `Automation` |
 | 🗄️ **[PromptVault](https://github.com/gorickroot/PromptVault)** | Curated vault of powerful AI prompts for productivity | `GenAI` `Prompts` |
-| 🎯 **[FocusFlow](https://github.com/gorickroot/FocusFlow-Pomodoro-Time)** | AI-powered productivity and deep focus management tool | `AI` `Productivity` |
+| 🎯 **[FocusFlow](https://github.com/gorickroot/FocusFlow)** | AI-powered productivity and deep focus management tool | `AI` `Productivity` |
 | 💬 **[NeuralChat](https://github.com/gorickroot/NeuralChat)** | Intelligent chatbot powered by cutting-edge AI models | `LLM` `Python` |
 
 ---
@@ -89,5 +91,5 @@ class GorickNath:
 ---
 
 <div align="center">
-<i>"Every line of code is a step forward."</i>
+<i>"I don't just use AI — I build with it."</i>
 </div>
