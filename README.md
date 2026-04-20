@@ -10,24 +10,22 @@
 
 ```python
 class GorickNath:
-    name       = "Gorick Nath"
-    alias      = "gorickroot"
-    location   = "Dublin, Ireland 🇮🇪"
-    company    = "ZynthoAI"
-    roles      = [
+    name        = "Gorick Nath"
+    alias       = "gorickroot"
+    location    = "Dublin, Ireland 🇮🇪"
+    company     = "Griffith College Dublin"
+    roles       = [
         "AI & Machine Learning",
         "Generative AI",
-        "MLOps",
-        "Computer Vision",
-        "Data Science",
-        "Data Analyst",
-        "Business Analyst",
+        "AI Agents & Automation",
+        "Vibe Coding",
         "Web Development",
-        "Video Editing",
+        "Data Science",
+        "Computer Vision",
+        "MLOps",
     ]
-    currently  = "Building AI agents & automations"
-    motto      = "Every line of code is a step forward"
-```
+    currently   = "Building AI agents & automations | BSc Computing Science"
+    motto       = "Every line of code is a step forward"
 
 ---
 
