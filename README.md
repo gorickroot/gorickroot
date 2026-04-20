@@ -26,6 +26,7 @@ class GorickNath:
         "Video Editing",
     ]
     currently  = "Building AI agents & automations"
+    motto      = "Every line of code is a step forward"
 ```
 
 ---
@@ -84,10 +85,11 @@ class GorickNath:
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorick-nath-aigeek)
-[![Email](https://img.shields.io/badge/ZynthoAI-4493F8?style=flat-square&logo=gmail&logoColor=white)](mailto:zynthoai@gmail.com)
+[![ZynthoAI](https://img.shields.io/badge/ZynthoAI-4493F8?style=flat-square&logo=gmail&logoColor=white)](mailto:zynthoai04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorickroot)
 
 ---
 
 <div align="center">
+<i>"Every line of code is a step forward."</i>
 </div>
