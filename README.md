@@ -87,7 +87,7 @@ class GorickNath:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorick-nath-aigeek)
 [![ZynthoAI](https://img.shields.io/badge/ZynthoAI-4493F8?style=flat-square&logo=gmail&logoColor=white)](mailto:zynthoai04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorickroot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gorickroot.github.io-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gorickroot.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gorickroot.github.io-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
